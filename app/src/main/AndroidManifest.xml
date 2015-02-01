@@ -9,6 +9,8 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".activities.NavigationDrawer" android:theme="@style/NavigationDrawerTheme" />
+
     </application>
 
 </manifest>
